@@ -1,36 +1,70 @@
-# Awesome-Freight-Management
+<div align="center">
 
-## Top Freight Management Ecosystem
+<img src="./assets/banner.svg" alt="Awesome Freight Management Banner" width="100%" />
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Transportation Management, Freight Procurement & Logistics Orchestration*  
-**Last updated: October 2026**
+# 🚚 Awesome Freight Management
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Freight Management**. These tools enable shippers, brokers, and forwarders to procure carrier capacity, manage shipments across all modes, optimize freight spend, and track deliveries in real time.
+### 🌐 The Definitive Directory of Enterprise SaaS Solutions & Open-Source TMS Platforms
 
-**Examples** include FreightFox, Freightify, FreightPOP, Logistaas, CargoWise, Magaya, Descartes, Kuebix, Transplace, and MercuryGate (the category leaders).
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Freight-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Freight-Management?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Freight-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Freight-Management?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Freight-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Freight-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, freight brokerage workflows, and open logistics operating systems — ideal for brokers, carriers, and developers seeking transparent, vendor-independent freight infrastructure.
+*Curated list of Transportation Management Systems (TMS), Freight Procurement, Rate Intelligence (RMS), Carrier Dispatch, Multi-Modal Shipping (Ocean, Air, FTL, LTL), and Logistics Supply Chain Platforms.*
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+**Last updated: October 2026** 📅
 
-## Table of Contents
+</div>
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## Sector Overview & Market Dynamics
+## 📖 Overview
 
-The global Freight Management System (FMS) and Transportation Management Software (TMS) market is estimated at **$21 billion to $34 billion** in 2026, growing at a CAGR of ~9–10% fueled by supply chain digitization, e-commerce volume, and real-time visibility demands. The sector remains **highly fragmented** rather than winner-take-all; while large enterprise tech giants capture major multinational freight contracts, thousands of mid-market shippers, forwarders, and regional 3PLs rely on specialized vertical SaaS platforms, digital freight forwarders, and open-source infrastructure.
+Welcome to **Awesome Freight Management** — an authoritative, SEO-indexed, and community-driven knowledge base covering both cutting-edge **commercial SaaS software** and self-hostable **open-source logistics repositories**. Whether you are an enterprise shipper optimizing multi-million-dollar carrier spend, an independent freight broker coordinating loads, a global freight forwarder automating customs filings, or a software engineer designing microservices for digital logistics, this repository provides verified specifications, transparent pricing tiers, free tier limitations, and system architectures.
 
-## SaaS/Hosted Platforms
+### 🌟 Key Ecosystem Segments
+- 🚢 **Ocean & Air Freight Forwarding**: Container rate management (RMS), automated quotation pipelines, and e-Customs compliance.
+- 🚛 **Over-the-Road (FTL & LTL)**: Automated spot bidding, contract load tenders, GPS dispatch, and electronic bill of lading (e-Bilty/e-BOL).
+- 📦 **Supply Chain Control Towers & Visibility**: Event-driven tracking, telematics integrations (Samsara, PC*MILER), and automated invoice audit reconciliation.
 
-| Company / Platform | Market Valuation / Revenue | Pricing (Starting Tier) | Free Tier Limit / Free Trial Limit | Primary Focus & Highlights |
+---
+
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⚖️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global **Freight Management System (FMS)** and **Transportation Management Software (TMS)** market is valued between **$21 billion and $34 billion** in 2026, compounding at an annual growth rate (CAGR) of **~9% to 10.5%**. This rapid expansion is propelled by global supply chain volatility, digital customs mandates, e-commerce scale, and the demand for autonomous rate procurement.
+
+Rather than consolidating into a single winner-take-all monopoly, the sector remains **fundamentally fragmented**:
+- **Global Enterprise Conglomerates**: Public titans such as CargoWise (WiseTech Global) and Descartes Systems Group command high-volume enterprise forwarding contracts and customs gateways.
+- **Specialized Vertical SaaS**: Cloud-native innovators (e.g., FreightPOP, Freightify, FreightFox) deliver specialized solutions like spot auction intelligence, multi-carrier rate shopping, and real-time carrier procurement.
+- **Open-Source Infrastructure**: A rapidly rising contingent of open architectures (such as Fleetbase and Trenova) enables developers and logistics engineering teams to bypass vendor lock-in and construct tailored supply chain operating systems.
+
+---
+
+## ☁️ SaaS / Hosted Platforms
+
+Below is a breakdown of top-tier commercial freight management and TMS platforms, **ranked in descending order by company valuation / market capitalization / revenue**, detailing upfront pricing tiers and exact free tier/trial policies:
+
+| Company / Platform | Market Valuation / Scale | Pricing (Starting Tier) | Free Tier Limit / Free Trial Limit | Primary Focus & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
-| **[CargoWise](https://www.wisetechglobal.com/)** | ~$11.4B USD market cap / $1.4B FY26 rev (WiseTech Global, ASX: WTC) | ~$9.95/entry (standalone customs entry) or ~$19.95/job (full container) via Value Packs | No free tier or trial; custom scheduled enterprise demo only | Deep logistics execution platform with integrated customs compliance, multi-modal forwarding, classification, and global duty calculation. |
+| **[CargoWise](https://www.wisetechglobal.com/)** | ~$11.4B USD market cap / $1.4B FY26 rev (WiseTech Global, ASX: WTC) | ~$9.95/entry (standalone customs entry) or ~$19.95/job (full container) via Value Packs | No free tier or trial; custom scheduled enterprise demo only | Comprehensive enterprise logistics execution platform with integrated customs compliance, multi-modal forwarding, classification, and global duty calculation. |
 | **[Descartes](https://www.descartes.com/)** | ~$7.3B USD market cap / $729M FY26 rev (NASDAQ: DSGX) | $699/month (Aljex Essential broker TMS) to €200–€500+/month base modular TMS | No free tier or trial; live demo & custom enterprise scoping only | Global logistics and trade compliance platform covering customs declarations, HS tariff calculation, broker TMS, and MacroPoint shipment visibility. |
 | **[Transplace](https://www.transplace.com/)** | $2.25B acquisition valuation ($4.4B combined gross rev, Uber Freight) | ~$500/month baseline TMS seat access (enterprise managed TMS via custom quote) | No free tier or trial; personalized enterprise consultation/demo only | Enterprise managed transportation platform and digital logistics network with freight brokerage, multi-modal TMS, and supply chain consulting. |
 | **[MercuryGate](https://www.mercurygate.com/)** | $1.5B+ est. valuation / adds ~25% net rev to Körber Supply Chain (Infios) | ~$500/month baseline TMS setup (typical deployment starts at $30,000–$50,000/yr) | No free tier or trial; scheduled platform demo only | Multi-modal transportation management system for enterprise shippers, brokers, and carriers with automated rating, execution, and freight settlement. |
@@ -41,7 +75,11 @@ The global Freight Management System (FMS) and Transportation Management Softwar
 | **[Logistaas](https://logistaas.com/)** | Bootstrapped / Private ($1M–$5M est. ARR; active in 75+ countries) | $35/user/month (CRM & Sales module); $55–$85/user/month (Full TMS & Finance) | Discretionary free trial upon request via scheduled demo (no hidden transaction/HBL fees) | Cloud-native TMS purpose-built for small-to-mid freight forwarders with shipment tracking, digital customer portal, quotations, and localized e-invoicing. |
 | **[FreightFox](https://www.freightfox.ai/)** | Seed/Pre-Series A (~₹11.5 Cr / $1.4M total funding; $2B+ freight managed) | Custom quote-based (modular adoption: Procure, Track, Execute, Settle) | No free tier or self-serve trial; live product demonstration upon request | AI-driven freight procurement, contract/spot reverse auctions, and freight visibility platform for enterprise manufacturers and 1,000+ transporters. |
 
-## Open-Source GitHub Projects
+---
+
+## 💻 Open-Source GitHub Projects
+
+Explore verified, production-ready open-source freight management systems, transportation management software (TMS), and logistics engines, **ranked in descending order by GitHub Stars**:
 
 | Repository | GitHub Stars | Language / Tech Stack | Primary Capabilities & Highlights |
 | :--- | :--- | :--- | :--- |
@@ -60,26 +98,52 @@ The global Freight Management System (FMS) and Transportation Management Softwar
 | **[edzeame-del/ghana-cargo-logistics](https://github.com/edzeame-del/ghana-cargo-logistics)** | [![GitHub stars](https://img.shields.io/github/stars/edzeame-del/ghana-cargo-logistics?style=social&color=white)](https://github.com/edzeame-del/ghana-cargo-logistics/stargazers) | TypeScript / React / Drizzle ORM | Regionally-adapted cargo management platform featuring MarineTraffic vessel tracking, multi-lingual interface, automated ETA estimation, and shipping ledger sync. |
 | **[devonwintz/courierMate](https://github.com/devonwintz/courierMate)** | [![GitHub stars](https://img.shields.io/github/stars/devonwintz/courierMate?style=social&color=white)](https://github.com/devonwintz/courierMate/stargazers) | JavaScript / Node.js | Lightweight shipment tracking and courier logistics manager for parcel waybill generation, barcode tagging, and last-mile status reporting. |
 
-**Frameworks for building custom systems**: Combine **Fleetbase** for logistics operating system with **Trenova** for asset-based TMS workflows, **tms (loadpartner)** for brokerage operations, **LogiTrack** for event-driven control tower patterns, and **PostgreSQL** for persistence — creating a fully self-hosted, enterprise-grade freight management platform.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Freight management systems handling shipment and carrier data must comply with applicable transportation regulations, customs requirements, and data protection laws.
-- **Open-source freight management is maturing but fragmented by role.** Fleetbase provides a modular logistics OS. Trenova targets asset-based carriers. tms (loadpartner) targets freight brokers. Integration work is required to match enterprise platforms.
-- **Freight procurement automation is a commercial strength.** Enterprise SaaS solutions like CargoWise, Descartes, and FreightFox offer extensive carrier integration networks and compliance automation.
-- Self-hosted open-source solutions require proper security hardening, EDI/carrier integration, and ongoing maintenance. Freight data is operationally sensitive — access controls and audit trails are essential.
+🛠️ **Architectural Blueprint for Custom Deployment**:  
+A resilient, self-hosted enterprise logistics stack can be assembled by uniting **Fleetbase** (for master logistics workflows and microservices orchestration), **Trenova** (for carrier asset dispatch and EDI compliance), **LogiTrack** (for real-time Kafka/MapLibre control-tower telemetry), and **PostgreSQL** as a shared relational state store.
 
 ---
 
-**Made for freight brokers, shippers, logistics engineers, and developers building transparent freight management solutions.**  
-Let's make Freight Management more open, data-driven, and efficient.
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Freight-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Freight-Management&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are wholeheartedly welcomed! 💡
+
+1. 🍴 Fork the repository.
+2. 🌿 Create your feature branch (`git checkout -b feature/add-new-freight-tool`).
+3. 📝 Add your tool or library following the established tabular schema.
+4. 🔍 Ensure links are active, pricing tiers are factual, and GitHub star counts reflect current status.
+5. 🚀 Submit a pull request detailing your proposed modifications.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and using **Awesome Freight Management**! 🚛✨
+
+If this repository has helped you evaluate logistics software, discover open-source freight alternatives, or build your own transportation management workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others in the supply chain ecosystem discover it!
+- 🍴 **Fork and share** the project with fellow logistics engineers, freight forwarders, and supply chain enthusiasts.
+- ☕ **Buy me a coffee**: If you'd like to support ongoing curation and open-source maintenance, visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated!
+
+---
+
+## ⚖️ Disclaimer
+
+- 📌 This repository is an independent, community-curated list compiled for educational and technical evaluation purposes.
+- 🚚 Systems handling bill-of-lading (BOL), dangerous goods declarations, and customs clearing documentation must adhere to relevant local and international maritime and transport safety jurisdictions.
+- 🔐 When hosting open-source TMS instances, ensure rigorous RBAC policies, TLS encryption for telematics endpoints, and secure API credential management for carrier EDI integrations.
+
+---
+
+<div align="center">
+
+**Made with ❤️ for freight brokers, shippers, logistics software engineers, and global supply chain innovators.**  
+*Driving digital transformation across freight transportation.* 🌍📦🚢
+
+</div>
